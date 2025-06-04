@@ -1,0 +1,5 @@
+streamlit
+transformers
+textblob
+spacy
+vaderSentiment
