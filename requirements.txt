@@ -3,3 +3,4 @@ transformers
 textblob
 spacy
 vaderSentiment
+plotly
