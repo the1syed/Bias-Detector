@@ -2,12 +2,6 @@
 
 This project is a **Streamlit-based web application** that detects **bias in media headlines** using multiple Natural Language Processing (NLP) techniques. Built to analyze how language might indicate political or emotional bias.
 
----
-
-## 🚀 Live Demo
-
-👉 [Click here to use the app](https://your-username-your-repo-name.streamlit.app/)  
-*(replace with your actual Streamlit Cloud link)*
 
 ---
 
